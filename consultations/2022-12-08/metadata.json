@@ -1,0 +1,11 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/jurassicPark/src/Dinosaur.java",
+    "code/jurassicPark/src/JurassicPark.java",
+    "code/jurassicPark/src/Main.java"
+  ],
+  "video": ""
+}
