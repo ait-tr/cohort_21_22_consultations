@@ -1,0 +1,11 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/people/src/Main.java",
+    "code/people/src/People.java",
+    "code/people/src/Person.java"
+  ],
+  "video": "https://us02web.zoom.us/rec/share/x_7O20Oah6ea9BuEDTLFKcfHYND26VwPDIItwruVkX_bNaeWNMLwfoQyLHx1NaTD.Z6bviSoiMztbBpne"
+}
