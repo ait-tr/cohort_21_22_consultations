@@ -4,9 +4,9 @@
   "homework": "homework.md",
   "code": [
     "code/consultation_2022_12_13/src/Main.java",
-    "code/consultation_2022_12_13/src/Message.java",
-    "code/consultation_2022_12_13/src/TimedMessage.java",
-    "code/consultation_2022_12_13/src/Logger.java"
+    "code/consultation_2022_12_13/src/logger/Message.java",
+    "code/consultation_2022_12_13/src/logger/TimedMessage.java",
+    "code/consultation_2022_12_13/src/logger/Logger.java"
   ],
-  "video": ""
+  "video": "https://us02web.zoom.us/rec/share/9jkSK6mSQD4-Y3NQW7Wb8v_a8cN2dviYaYLvneVAkkt6fqXwa30UOyTLToMu3jR5.3H-GFxfu69UXfFyv"
 }
