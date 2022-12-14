@@ -1,0 +1,12 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/consultation_2022_12_14/src/Main.java",
+    "code/consultation_2022_12_14/src/OrganicWaste.java",
+    "code/consultation_2022_12_14/src/PlasticWaste.java",
+    "code/consultation_2022_12_14/src/Waste.java"
+  ],
+  "video": "https://us02web.zoom.us/rec/share/vV8hV2cjJX0KH6H5sHYlwvQE3SPz0Fmz5EXpQ6ARwy1qS27304ihBFoNoz2IXK-p.FgO_g-e4egXBWI-8"
+}
