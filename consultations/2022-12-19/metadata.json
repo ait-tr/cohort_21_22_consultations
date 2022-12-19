@@ -4,7 +4,7 @@
   "homework": "homework.md",
   "code": [
     "code/consultation_2022_12_19/src/Main.java",
-    "code/consultation_2022_12_19/src/Student.java",
-    "code/consultation_2022_12_19/src/Group.java"
+    "code/consultation_2022_12_19/src/school/Student.java",
+    "code/consultation_2022_12_19/src/school/Group.java"
   ]
 }
