@@ -1,0 +1,10 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/consultation_2022_12_19/src/Main.java",
+    "code/consultation_2022_12_19/src/Student.java",
+    "code/consultation_2022_12_19/src/Group.java"
+  ]
+}
