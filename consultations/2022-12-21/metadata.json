@@ -1,0 +1,14 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/consultation_2022_12_21/src/Museum.java",
+    "code/consultation_2022_12_21/src/CulturalObject.java",
+    "code/consultation_2022_12_21/src/Main.java",
+    "code/mass_increase/src/Hospital.java",
+    "code/mass_increase/src/Main.java",
+    "code/mass_increase/src/Sanitar.java"
+  ],
+  "video": "https://us02web.zoom.us/rec/share/eIr643pdLxr4Di7UKJ_dfywev44vpmC4q0pfypmvaec7oimicjBpzsKTxif7P9QZ.1Ka3vQCpFX_JmljS"
+}
