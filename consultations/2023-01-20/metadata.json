@@ -1,0 +1,15 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+"code/consultation_2023_01_20/src/ArrayHandler.java",
+"code/consultation_2023_01_20/src/ArrayProducer.java",
+"code/consultation_2023_01_20/src/FixArrayProducer.java",
+"code/consultation_2023_01_20/src/Main.java",
+"code/consultation_2023_01_20/src/ScannerArrayProducer.java",
+"code/consultation_2023_01_20/src/SummatorArrayHandler.java",
+"code/consultation_2023_01_20/src/SummatorArrayHandlerTest.java"
+  ],
+  "video": ""
+}
