@@ -1,0 +1,14 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/consultation_2022_12_23/src/Main.java",
+    "code/consultation_2022_12_23/src/Bird.java",
+    "code/consultation_2022_12_23/src/Candy.java",
+    "code/consultation_2022_12_23/src/Animal.java",
+    "code/consultation_2022_12_23/src/Fish.java"
+
+  ],
+  "video": "https://us02web.zoom.us/rec/share/_dFdirjqzjPMWNyghoCKeI1NtMRuCNJC15qEHA_ZqcJ3rtz7J6JtUgDL4g9uH6J3.ZRnUiSVL3qUoDd9D"
+}
