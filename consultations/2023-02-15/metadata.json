@@ -1,0 +1,14 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/consultation_2023_02_15/src/Main.java",
+    "code/consultation_2023_02_15/src/Animal.java",
+    "code/consultation_2023_02_15/src/Bee.java",
+    "code/consultation_2023_02_15/src/Countable.java",
+    "code/consultation_2023_02_15/src/HoneyBadger.java",
+    "code/consultation_2023_02_15/src/Organism.java"
+  ],
+  "video": ""
+}
