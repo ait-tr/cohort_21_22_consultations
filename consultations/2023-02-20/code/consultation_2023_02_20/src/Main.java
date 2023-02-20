@@ -50,8 +50,8 @@ public class Main {
         // Queue - это интерфейс?
         // Классы, которые его реализуют:
         // 1. PriorityQueue
-        // 2. ArrayDeque (он так же реализует интерфейс Deque)
-        // 3. LinkedList (он так же реализует интерфейс Deque)
+        // 2. ArrayDeque (он также реализует интерфейс Deque)
+        // 3. LinkedList (он также реализует интерфейс Deque)
 
         PriorityQueue<String> fruits = new PriorityQueue<>();
         fruits.add("Orange");
