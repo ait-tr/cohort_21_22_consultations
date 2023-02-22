@@ -3,9 +3,7 @@
   "theory": "theory.md",
   "homework": "homework.md",
   "code": [
-    "code/consultation_2023_02_20/src/Main.java",
-    "code/consultation_2023_02_20/src/Fruit.java",
-    "code/consultation_2023_02_20/src/Composer.java"
+    "code/consultation_2023_02_22/src/Main.java",
   ],
   "video": ""
 }
