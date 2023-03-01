@@ -1,0 +1,40 @@
+body {
+  margin: 0px;
+}
+
+.heading1,
+.heading2,
+.heading3 {
+  /* colon ":", semicolon ";", asterisk "*" */
+  color: red;
+  /* применится последний т.е. синий - он перезатрет предыдущий */
+  color: blue;
+}
+
+.footer, .header {
+  padding: 20px;
+  text-align: center;
+  background-color: gray;
+  color: white;
+  font: italic 20px "Fira Sans", serif;
+}
+
+.btn {
+  background-color: red;
+  padding: 30px;
+  color: white;
+  text-align: center;
+}
+
+.box {
+  margin: 20px;
+  padding: 30px;
+  border-radius: 10px;
+  border: 10px black solid;
+  background-color: fuchsia;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+}
+
+
