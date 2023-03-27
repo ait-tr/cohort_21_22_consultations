@@ -3,8 +3,8 @@
   "theory": "theory.md",
   "homework": "homework.md",
   "code": [
-    "code/consultation_2023_03_27/index.html",
-    "code/consultation_2023_03_27/index.js"
+    "./code/consultation_2023_03_27/index.html",
+    "./code/consultation_2023_03_27/index.js"
   ],
   "video": ""
 }
