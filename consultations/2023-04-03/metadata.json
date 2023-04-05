@@ -3,11 +3,11 @@
   "theory": "theory.md",
   "homework": "homework.md",
   "code": [
-    "./code/responsive/index.css",
-    "./code/responsive/index.html",
-    "./code/my-app/src/Child/Child.tsx",
-    "./code/my-app/src/WelcomePage/WelcomePage.tsx",
-    "./code/my-app/src/index.tsx"
+    "./code/cra/src/Child/Child.tsx",
+    "./code/cra/src/Parent/Parent.tsx",
+    "./code/cra/src/Parent/types/Parrot.ts",
+    "./code/cra/src/Parent/types/Pirate.ts",
+    "./code/cra/src/index.tsx"
   ],
   "video": ""
 }
