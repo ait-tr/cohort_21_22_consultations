@@ -3,11 +3,11 @@
   "theory": "theory.md",
   "homework": "homework.md",
   "code": [
-    "./code/cra/src/Child/Child.tsx",
-    "./code/cra/src/Parent/Parent.tsx",
-    "./code/cra/src/Parent/types/Parrot.ts",
-    "./code/cra/src/Parent/types/Pirate.ts",
-    "./code/cra/src/index.tsx"
+    "./code/consulation_2023_04_05/cra/src/Child/Child.tsx",
+    "./code/consulation_2023_04_05/cra/src/Parent/Parent.tsx",
+    "./code/consulation_2023_04_05/cra/src/Parent/types/Parrot.ts",
+    "./code/consulation_2023_04_05/cra/src/Parent/types/Pirate.ts",
+    "./code/consulation_2023_04_05/cra/src/index.tsx"
   ],
   "video": ""
 }
