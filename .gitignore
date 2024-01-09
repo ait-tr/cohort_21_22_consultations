@@ -2,3 +2,4 @@
 out/
 *.iml
 node_modules
+DS_Store

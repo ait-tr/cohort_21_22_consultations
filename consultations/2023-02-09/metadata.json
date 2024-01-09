@@ -1,7 +1,4 @@
 {
-  "plan": "plan.md",
-  "theory": "theory.md",
-  "homework": "homework.md",
   "code": [
     "code/consultation_2022_02_09/src/Main.java",
     "code/consultation_2022_02_09/src/Coffee.java",
@@ -9,6 +6,5 @@
     "code/consultation_2022_02_09/src/Printer.java",
     "code/consultation_2022_02_09/src/Spike.java",
     "code/consultation_2022_02_09/src/Tire.java"
-  ],
-  "video": ""
+  ]
 }
